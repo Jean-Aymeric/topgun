@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "controller/controller.h"
 
 int main() {
-    printf("Hello, World!\n");
+    play();
     return 0;
 }
